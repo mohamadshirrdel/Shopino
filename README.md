@@ -31,7 +31,7 @@ npm install
 npm run dev
 ```
 
-<h>فارسی</h>1
+<h>فارسی</h>
 
 # 🛒 Shopino
 
